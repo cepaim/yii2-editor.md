@@ -7,7 +7,7 @@
 
 namespace yiier\editor;
 
-use yii\bootstrap\InputWidget;
+use yii\bootstrap5\InputWidget;
 use yii\helpers\Html;
 use yii\helpers\Json;
 
